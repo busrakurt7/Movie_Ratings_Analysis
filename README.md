@@ -1,1 +1,1 @@
-# movie_ratings_analysis
+# Movie_Ratings_Analysis
